@@ -3,6 +3,8 @@ import './App.css';
 import ReactFroms from './componentes/form-controlled/controlledform';
 import Register from './componentes/Forms.task/formsval';
 import Todolist from './componentes/todo-list/todo_list';
+import UserDetails from './componentes/Userdetailesshowontable/detailes';
+import Navigation from './navigation/navigartion';
 
 function App() {
   return (
@@ -26,13 +28,18 @@ function App() {
 {/* <ReactFroms/> */}
 
 
-<Todolist/>
+{/* <Todolist/> */}
+
+{/* <UserDetails/> */}
+
+
+
+<Navigation/>
+
+
+
 
    </>
-
-
-
-
   );
 }
 

@@ -55,12 +55,6 @@ const Register = () => {
 
         }
 
-       
-      
-
-      
-
-
     }
 
     const validateEmail = (event) => {
